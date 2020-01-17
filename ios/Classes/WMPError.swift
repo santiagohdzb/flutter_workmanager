@@ -6,6 +6,7 @@
 //
 
 import Foundation
+import Flutter
 
 enum WMPError: Error {
     case methodChannelNotSet
